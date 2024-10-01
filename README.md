@@ -1,8 +1,5 @@
 <h1>Hey, I'm Jay 👋</h1>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/adobelightroom-its_me_mario-1877F2?style=for-the-badge">
-
-
 <h2>Front-End Stack</h2>
 <span><img src="https://img.shields.io/badge/next_js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></span>
