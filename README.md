@@ -1,5 +1,7 @@
 <h1>Hey, I'm Jay 👋</h1>
 
+### UI/UX Designer & Fullstack enthusiast! I love connecting with new people & learning new tools and libraries to expand my skillset and create more
+
 <h2>Front-End Stack</h2>
 <span><img src="https://img.shields.io/badge/next_js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></span>
